@@ -1,0 +1,29 @@
+Copying output.:
+total 352
+drwxr-xr-x 2 diogo diogo   4096 mar 11 10:23 .
+drwxr-xr-x 6 diogo diogo   4096 mar 11 08:40 ..
+-rwxr-xr-x 1 diogo diogo   8464 mar  4 09:54 p1
+-rwxr-xr-x 1 diogo diogo   8600 mar 11 10:23 p10
+-rw-rw-r-- 1 diogo diogo    980 mar 11 10:23 p10.c
+-rw-rw-r-- 1 diogo diogo    437 mar  4 10:01 p1.c
+-rwxr-xr-x 1 diogo diogo   8384 mar  4 10:08 p2
+-rw-rw-r-- 1 diogo diogo    510 mar  4 10:08 p2.c
+-rwxr-xr-x 1 diogo diogo   8528 mar  4 10:13 p3
+-rw-rw-r-- 1 diogo diogo    689 mar  4 10:13 p3.c
+-rwxr-xr-x 1 diogo diogo   8432 mar  4 10:26 p4
+-rw-rw-r-- 1 diogo diogo    578 mar  4 10:26 p4.c
+-rwxr-xr-x 1 diogo diogo   8384 mar  4 10:34 p5
+-rw-rw-r-- 1 diogo diogo    464 mar  4 10:34 p5.c
+-rwxr-xr-x 1 diogo diogo   8560 mar 11 09:17 p6
+-rw-rw-r-- 1 diogo diogo    923 mar 11 09:28 p6.c
+-rwxr-xr-x 1 diogo diogo   8432 mar 11 09:34 p7
+-rw-rw-r-- 1 diogo diogo    251 mar 11 09:39 p7.c
+-rwxr-xr-x 1 diogo diogo   8472 mar 11 09:44 p8
+-rw-rw-r-- 1 diogo diogo    782 mar 11 10:01 p8.c
+-rwxr-xr-x 1 diogo diogo   8512 mar 11 10:12 p9
+-rw-rw-r-- 1 diogo diogo    750 mar 11 10:14 p9.c
+-rwxr-xr-x 1 diogo diogo   8296 mar 11 09:39 test
+-rw-rw-r-- 1 diogo diogo     76 mar 11 09:36 test.c
+-rw-r--r-- 1 diogo diogo     14 mar 11 10:23 test_textfile_output
+-rw-rw-r-- 1 diogo diogo 133155 mar  3 17:42 TP3 - Criação e Terminação de Processos.pdf
+-rw-rw-r-- 1 diogo diogo  29265 mar  3 17:44 tp3 - exemplos.pdf
