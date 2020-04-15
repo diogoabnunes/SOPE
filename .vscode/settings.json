@@ -1,5 +1,10 @@
 {
     "files.associations": {
-        "stat.h": "c"
+        "stat.h": "c",
+        "fcntl.h": "c",
+        "types.h": "c",
+        "pthread.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
     }
 }
