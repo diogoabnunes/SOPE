@@ -33,17 +33,17 @@ int main(void)
         close(fd_ans);
     }
 
-    // 2. Reads the two numbers from the console
+    // 3. Reads the two numbers from the console
     printf("Digit two numbers: ");
 
     int numbers[2];
 
     scanf("%d %d", &numbers[0], &numbers[1]);
 
-    // 3. Sends a request to the server
+    // 4. Sends a request to the server
     write(fd_req, numbers, sizeof(int) * 2);
 
-    // 4. Retrives the answer from the server and prints
+    // 5. Retrives the answer from the server and prints
     fd_ans = open(ANSWER_FIFO, O_RDONLY);
 
     int sum, difference, product;
@@ -75,7 +75,7 @@ int main(void)
         printf("Quocient: %.2f\n", quocient);
     }
 
-    // X. Shutsdown the program
+    // 6. Shutsdown the program
     close(fd_req);
     close(fd_ans);
     unlink(ANSWER_FIFO);

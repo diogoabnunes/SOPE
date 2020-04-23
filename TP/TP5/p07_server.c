@@ -74,7 +74,7 @@ int main(void)
 
     printf("Data computed and sent...\n");
 
-    // X. Shutsdown the program
+    // 5. Shutsdown the program
     close(fd_ans);
     close(fd_req);
     unlink(REQUEST_FIFO);
